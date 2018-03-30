@@ -1,3 +1,6 @@
+TO DO List - (task for week 29th Mar to apr 5th 2018)
+will complete the data wrangling project by taking suggestions from teh project reviewer
+will learn Inferential statistics
 
 TO Do List - (task for week 14th Mar to 20th Feb 2018)
 Update the data wrangling project by following the feedback from the reviewer and submit it
