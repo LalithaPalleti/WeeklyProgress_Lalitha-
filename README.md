@@ -17,3 +17,6 @@ Start Learning Exploraory Analysis
 
 TO DO List - (task for week june 12 to june 19 2018)
 - Complete the Data Wrangling Project and resubmit the project
+
+TO Do List - (task for week June 16 - June 23 2018)
+- Complete the Exploratory Data Analysis Project and submit the project
