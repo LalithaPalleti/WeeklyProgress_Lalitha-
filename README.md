@@ -20,3 +20,6 @@ TO DO List - (task for week june 12 to june 19 2018)
 
 TO Do List - (task for week June 16 - June 23 2018)
 - Complete the Exploratory Data Analysis Project and submit the project
+
+TO DO List - (task for week June 24 - June 30 2018)
+- Complete learning Inferential Statistics Lesson and submit the project
