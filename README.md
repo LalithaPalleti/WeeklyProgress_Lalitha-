@@ -29,3 +29,6 @@ TO DO List - (task for week July 02 - July 08 2018)
 
 TO DO List - (task for week July 09- July 15 2018)
 - Complete learning Machine Learning upto Lesson 13
+
+TO DO List - (task for week July 16 - July 22 2018)
+- Complete learnng remaining 2 lessons and machine learning project
